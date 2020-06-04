@@ -1,0 +1,143 @@
+@font-face{
+
+    font-family: Victorian Art Magic Remains;
+    src: url('Victorian Art Magic Remains.ttf');
+}
+
+.navbar{
+    
+background-color:#1a237e!important;
+
+
+
+
+}
+.collapse{
+    margin-right: 150px;
+}
+.nav-link{font-family:forte;
+    font-weight: bold;
+  color:yellow !important;
+  text-shadow:2px 3px 10px black;
+}
+.btn-primary{
+   
+     color:yellow;
+background-color:#1a237e !important;
+border: inherit;
+font-weight: bold;
+font-family:Victorian Art Magic Remains;
+cursor: pointer;
+}
+
+
+.men{
+
+    font-weight: bold;
+    font-family:Victorian Art Magic Remains;
+    color:yellow;
+text-shadow:10px 5px 10px black;
+cursor:pointer;}
+
+.men:hover{
+    transition-duration: 1s;
+    transform: rotate(360deg);
+    color:white;
+}
+
+.logo{
+    width: 100px;
+   
+}
+.logo:hover{
+    transition-duration: 1s;
+    transform: rotate(360deg);
+  
+   
+
+}
+
+.produtcs{
+    margin: 20px;
+}
+h1{ 
+    
+    margin:30px;
+    font-family:Victorian Art Magic Remains;
+    text-shadow:5px 5px 5px black; 
+    text-align: center;
+    font-weight: bold;
+    color:yellow;}
+
+
+h2{
+    
+        font-family:Victorian Art Magic Remains;
+  font-size: 40px;
+   
+   
+    color: yellow;
+    font-weight: bold;
+    text-shadow:5px 5px 5px black;
+}
+.card1,.card2,.card3,.card4
+{
+margin-top: 20px;    
+width:auto;
+height: auto;
+}
+.card-text,.card-title{
+    font-weight: bold;
+
+}
+
+
+.upcoming{
+    
+    margin-top: 50px;
+}
+
+
+.fa-facebook-official,.fa-twitter-square,.fa-instagram{
+   color:yellow;
+font-size: 40px !important;
+margin:5px 10px;
+
+
+}
+.fa-facebook-official:hover,.fa-twitter-square:hover,.fa-instagram:hover{
+
+    transition-duration: 1s;
+    transform: rotate(360deg);
+color:royalblue;  
+  
+}
+.connect{
+    margin: 10px;
+font-weight: bold;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+    font-family:Victorian Art Magic Remains;
+}
+.text{
+    font-family:Victorian Art Magic Remains;
+text-align: left;
+margin-top: 20px;
+font-size: 50px;
+text-shadow: 2px 2px 5px black;
+
+}
+.form-row{
+    margin-top: 25px;
+
+}
+
+
+.footer{
+    margin-top:110px;
+    background-color:#1a237e ;
+    
+    
+}
+
